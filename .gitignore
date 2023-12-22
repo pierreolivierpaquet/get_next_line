@@ -1,0 +1,13 @@
+#Compilation
+*.o
+*.a
+obj/
+*.out
+
+#Configuration & IDE
+.vscode/
+.DS_Store
+imgui.ini
+
+#Miscellaneous
+*.txt
